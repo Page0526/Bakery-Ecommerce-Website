@@ -6,7 +6,7 @@
 ## 📄Our report
 ..update
 ## 🎥Our demo
-[..update](https://www.youtube.com/watch?v=vOn7sGf7v_M)
+[Youtube link](https://www.youtube.com/watch?v=vOn7sGf7v_M)
 ## Guide to use
 To clone your project: git clone https://github.com/Page0526/bakery-ecommerce-website.git 
 
