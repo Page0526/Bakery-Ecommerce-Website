@@ -8,6 +8,8 @@
 ## 🎥Our demo
 ..update
 ## Guide to use
-To clone your project: git clone https://github.com/Page0526/bakery-ecommerce-website.git
+To clone your project: git clone https://github.com/Page0526/bakery-ecommerce-website.git 
+
 To install package: npm run install-app
+
 To run: npm run app
