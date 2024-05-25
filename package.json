@@ -1,0 +1,26 @@
+{
+    "name": "bakery-ecommerce-website",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "install:all": "npm install && npm install --prefix backend && npm install --prefix frontend && npm install --prefix admin && pip install -r modelAI/requirements.txt",
+        "model": "cd modelAI && python -m uvicorn main:app --reload --port 4040",
+        "server": "npm run server --prefix backend",
+        "client": "npm run dev --prefix frontend",
+        "admin": "npm run dev --prefix admin",
+        "app": "concurrently \"npm run server\" \"npm run client\" \"npm run model\" \"npm run admin\""
+    },
+    "devDependencies": {
+        "concurrently": "^7.6.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Page0526/bakery-ecommerce-website,"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Page0526/bakery-ecommerce-website/issues"
+    },
+    "homepage": "https://github.com/Page0526/bakery-ecommerce-website"
+}
