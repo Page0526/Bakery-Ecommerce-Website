@@ -1,9 +1,9 @@
 ## Yumm! Bakery
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![JupyterNotebook](https://img.shields.io/badge/JupyterNotebook-orange)
-![CSS](https://img.shields.io/badge/CSS-green)
-![Other](https://img.shields.io/badge/Other-gray)
+[![Vite](https://img.shields.io/badge/Vite-v2.0.0-blue.svg?logo=vite&style=for-the-badge)](https://vitejs.dev/)
+[![Python](https://img.shields.io/badge/Python-3.9-blue.svg?logo=python&style=for-the-badge)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?logo=jupyter&style=for-the-badge)](https://jupyter.org/)
+
 
 ## Members:
 
